@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6B12ACC42DDFBC3700DD3560 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6B12ACC22DDFBC3200DD3560 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		6B12ACA62DDFB88400DD3560 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		6B12AC972DDFB88300DD3560 /* Syne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Syne.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B12ACA52DDFB88400DD3560 /* SyneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SyneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B12ACAF2DDFB88400DD3560 /* SyneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SyneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B12ACC22DDFBC3200DD3560 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				6B12ACA82DDFB88400DD3560 /* SyneTests */,
 				6B12ACB22DDFB88400DD3560 /* SyneUITests */,
 				6B12AC982DDFB88300DD3560 /* Products */,
+				6B12ACC22DDFBC3200DD3560 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B12ACC42DDFBC3700DD3560 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
